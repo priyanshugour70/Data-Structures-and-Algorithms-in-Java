@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "6. Variables & DataTypes",
+        "7. Operators",
+        "8. Conditional Statements",
+        "9. Loops(Flow Control)",
+        "10. Patterns(Part-1)",
+        "11. Functions & Methods",
+        "."
+    ],
+    "python.formatting.provider": "autopep8",
+    "java.debug.settings.onBuildFailureProceed": true
+}
