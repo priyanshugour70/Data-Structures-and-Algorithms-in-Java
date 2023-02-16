@@ -1,6 +1,7 @@
 public class p8_Descending_Insertion_Sort_Code {
     
-
+    // this code is writen by Priyanshu Gour
+    
     public static void insertionSort(int arr[]){
         
         for(int i = 1 ; arr.length > i ; i++){
