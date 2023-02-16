@@ -1,5 +1,7 @@
 public class p7_Descending_Selection_Sort_code {
     
+    // this code is writen by Priyanshu Gour
+    
     public static void SelectionSort(int arr[]){
         for(int i = 0 ; arr.length > i ; i++){
             
