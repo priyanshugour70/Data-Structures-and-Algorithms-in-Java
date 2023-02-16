@@ -1,5 +1,7 @@
 public class p6_Descending_Bubble_Sort_Code {
     
+    // this code is writen by Priyanshu Gour
+    
     public static void incBubbleSort(int arr[]){
         int n = arr.length ;
 
