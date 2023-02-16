@@ -1,5 +1,7 @@
 public class p5_Counting_Sort_Code {
     
+    // this code is writen by Priyanshu Gour
+    
     public static void countSort(int arr[]){
         int max = Integer.MIN_VALUE ;
 
