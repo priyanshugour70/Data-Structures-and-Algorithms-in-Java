@@ -1,6 +1,8 @@
 public class p1_Bubble_Sort_Code {
 
 
+    // this code is writen by Priyanshu Gour
+
     public static void BubbleSort(int arr[]){
 
         for(int turn = 0 ; turn < arr.length-1 ; turn++){
