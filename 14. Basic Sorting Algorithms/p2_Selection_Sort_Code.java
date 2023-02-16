@@ -1,5 +1,6 @@
 public class p2_Selection_Sort_Code {
 
+    // this code is writen by Priyanshu Gour
 
     public static void selectionSort(int arr[]){
 
