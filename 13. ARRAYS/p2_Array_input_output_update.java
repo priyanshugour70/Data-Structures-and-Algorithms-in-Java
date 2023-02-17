@@ -1,4 +1,6 @@
-import java.util.*;;
+import java.util.*;
+
+// this code is writen by Priyanshu Gour
 
 public class p2_Array_input_output_update {
     public static void main(String args[]){
