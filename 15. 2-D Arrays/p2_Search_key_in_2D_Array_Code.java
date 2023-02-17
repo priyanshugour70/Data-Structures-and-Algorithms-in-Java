@@ -1,5 +1,7 @@
 import java.util.*;
 
+// this code is writen by Priyanshu Gour
+
 public class p2_Search_key_in_2D_Array_Code {
     
     public static void searchMatrix(int arr[][] , int key ) {
