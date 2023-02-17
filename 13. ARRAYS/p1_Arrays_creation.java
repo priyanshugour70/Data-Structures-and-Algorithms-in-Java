@@ -1,5 +1,7 @@
 public class p1_Arrays_creation {
 
+    // this code is writen by Priyanshu Gour
+
     public static void main(String args[]){
 
         int marks[] = new int[10];  // this is known as array decleartaion...
