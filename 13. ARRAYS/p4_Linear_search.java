@@ -1,5 +1,7 @@
 import java.util.*;
 
+// this code is writen by Priyanshu Gour
+
 public class p4_Linear_search {
 
     public static void Linear_search(int arr[] ,int key){
