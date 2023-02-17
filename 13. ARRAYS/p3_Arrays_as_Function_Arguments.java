@@ -1,5 +1,7 @@
 public class p3_Arrays_as_Function_Arguments {
 
+    // this code is writen by Priyanshu Gour
+
     public static void update(int array[]) {
 
         for (int i = 0; array.length > i; i++) {
