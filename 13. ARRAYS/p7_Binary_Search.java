@@ -1,5 +1,7 @@
 public class p7_Binary_Search {
 
+    // this code is writen by Priyanshu Gour
+
     public static int Binary_Search(int arr[], int key) {
 
         int start = 0, end = arr.length - 1;
