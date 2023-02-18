@@ -1,4 +1,6 @@
 public class p10_Print_Subarrays {
+
+    // this code is writen by Priyanshu Gour
     
     public static void Print_Subarrays(int arr[]){
 
