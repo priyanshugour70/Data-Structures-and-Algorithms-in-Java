@@ -1,4 +1,6 @@
 public class p13_Max_Subarray_Sum_2_Prefix_Sum {
+
+    // this code is writen by Priyanshu Gour
     
     public static void Max_of_Subarray(int arr[]) {
 
