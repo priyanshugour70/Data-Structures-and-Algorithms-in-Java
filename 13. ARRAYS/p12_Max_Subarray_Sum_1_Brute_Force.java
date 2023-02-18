@@ -1,5 +1,7 @@
 public class p12_Max_Subarray_Sum_1_Brute_Force {
 
+    // this code is writen by Priyanshu Gour
+
     public static void Max_of_Subarray(int arr[]) {
 
         int sum = 0;
