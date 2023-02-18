@@ -1,4 +1,6 @@
 public class p14_Max_Subarray_Sum_3_Kadane_s_Algorithm {
+
+    // this code is writen by Priyanshu Gour
     
     public static void Kadanes_Algorithm(int arr[]){
 
