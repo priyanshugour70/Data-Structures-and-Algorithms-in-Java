@@ -1,4 +1,7 @@
 public class p6_Smallest_in_Array {
+
+    // this code is writen by Priyanshu Gour
+
     public static void Smallest_in_Array(int arr[]){
 
         int temp = Integer.MAX_VALUE ;
