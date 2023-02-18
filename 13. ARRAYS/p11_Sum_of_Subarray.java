@@ -1,4 +1,6 @@
 public class p11_Sum_of_Subarray {
+
+    // this code is writen by Priyanshu Gour
     
     public static void Sum_of_Subarray(int arr[]){
 
