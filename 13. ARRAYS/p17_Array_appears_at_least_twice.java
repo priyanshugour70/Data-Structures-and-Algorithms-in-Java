@@ -1,4 +1,6 @@
 public class p17_Array_appears_at_least_twice {
+
+    // this code is writen by Priyanshu Gour
     
     public static boolean arrayAppearsAtLeastTwice(int arr[]){
 
