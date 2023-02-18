@@ -2,6 +2,8 @@ import java.util.HashSet;
 
 public class p18_Array_appears_at_least_twice_Approch2 {
 
+    // this code is writen by Priyanshu Gour
+
     public static boolean arrayAppearsAtLeastTwice(int nums[]) {
 
         HashSet<Integer> set = new HashSet<>();
