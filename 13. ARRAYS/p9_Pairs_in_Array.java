@@ -1,4 +1,6 @@
 public class p9_Pairs_in_Array {
+
+    // this code is writen by Priyanshu Gour
     
     public static void Pairs_in_Array(int arr[]){
 
