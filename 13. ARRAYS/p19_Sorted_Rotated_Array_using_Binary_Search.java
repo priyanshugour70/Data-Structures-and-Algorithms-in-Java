@@ -1,5 +1,7 @@
 public class p19_Sorted_Rotated_Array_using_Binary_Search {
 
+    // this code is writen by Priyanshu Gour
+
 
     public static int search(int nums[], int target){
         // min will have index of minimum element of nums
