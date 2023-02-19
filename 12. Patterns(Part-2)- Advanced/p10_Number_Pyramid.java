@@ -2,6 +2,8 @@ import java.util.*;
 
 public class p10_Number_Pyramid {
     
+    // this code is writen by Priyanshu Gour
+
     public static void Number_Pyramid(int n){
 
         int count = 1 ; 
