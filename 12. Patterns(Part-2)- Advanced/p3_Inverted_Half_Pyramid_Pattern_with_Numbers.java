@@ -2,6 +2,8 @@ import java.util.*;
 
 public class p3_Inverted_Half_Pyramid_Pattern_with_Numbers {
 
+    // this code is writen by Priyanshu Gour
+
     public static void Inverted_Half_Pyramid_Pattern_with_Numbers(int n ){
         int k = n ;
         for(int i = 1 ; n >= i ; i++ ){
