@@ -2,6 +2,8 @@ import java.util.*;
 
 public class p4_Floyds_Triangle_Pattern {
 
+    // this code is writen by Priyanshu Gour
+
     public static void Floyds_Triangle_Pattern(int n) {
         int count = 1;
 
