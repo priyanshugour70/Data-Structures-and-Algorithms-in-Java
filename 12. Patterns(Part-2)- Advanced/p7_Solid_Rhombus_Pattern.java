@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class p7_Solid_Rhombus_Pattern {
     
+    // this code is writen by Priyanshu Gour
+
     public static void Solid_Rhombus_Pattern(int n){
 
         for(int i = 1 ; n >= i ; i++){
