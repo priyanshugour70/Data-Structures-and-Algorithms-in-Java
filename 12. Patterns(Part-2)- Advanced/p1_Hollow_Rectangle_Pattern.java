@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class p1_Hollow_Rectangle_Pattern {
+
+    // this code is writen by Priyanshu Gour
     
     public static void Hollow_rectangle(int row , int col){
 
