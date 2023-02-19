@@ -2,6 +2,8 @@ import java.util.*;
 
 public class p2_Inverted_and_Rotated_Half_pyramid {
 
+    // this code is writen by Priyanshu Gour
+
     public static void Inverted_Rotated_Half_Pyramid(int n ){
 
         for(int i = 1 ; n >= i ; i++){
