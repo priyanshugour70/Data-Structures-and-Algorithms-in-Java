@@ -2,6 +2,8 @@ import java.util.*;
 
 public class p5_0_1_Triangle_Pattern {
     
+    // this code is writen by Priyanshu Gour
+
     public static void _0_1_Triangle_Pattern(int n){
 
 
