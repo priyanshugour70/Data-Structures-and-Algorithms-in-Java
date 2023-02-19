@@ -2,6 +2,8 @@ import java.util.*;
 
 public class p6_Butterfly_Pattern {
 
+    // this code is writen by Priyanshu Gour
+
     public static void Butterfly_Pattern(int n) {
 
         for (int i = 1; n >= i; i++) {
