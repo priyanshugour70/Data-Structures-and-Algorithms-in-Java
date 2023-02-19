@@ -2,6 +2,8 @@ import java.util.*;
 
 public class p11_Palindromic_Pattern_with_Numbers {
 
+    // this code is writen by Priyanshu Gour
+
     public static void Palindromic_Pattern(int n){
 
         for(int i = 1 ; n >= i ; i++){
