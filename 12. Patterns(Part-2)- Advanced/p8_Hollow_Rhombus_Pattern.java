@@ -2,6 +2,8 @@ import java.util.*;
 
 public class p8_Hollow_Rhombus_Pattern {
 
+    // this code is writen by Priyanshu Gour
+
     public static void Hollow_Rhombus_Pattern(int n) {
 
         for (int i = 1; n >= i; i++) {
