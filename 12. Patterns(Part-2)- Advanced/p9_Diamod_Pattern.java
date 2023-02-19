@@ -2,6 +2,8 @@ import java.util.*;
 
 public class p9_Diamod_Pattern {
     
+    // this code is writen by Priyanshu Gour
+
     public static void Diamod_Pattern(int n){
 
 
