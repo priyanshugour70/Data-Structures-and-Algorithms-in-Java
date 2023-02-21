@@ -1,4 +1,6 @@
 public class p8_overloading_using_parameters {
+
+    // this code is writen by Priyanshu Gour
     
     public static int sum(int a, int b, int c){
         return a+b+c ;
