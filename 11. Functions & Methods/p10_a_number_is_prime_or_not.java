@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class p10_a_number_is_prime_or_not {
+
+    // this code is writen by Priyanshu Gour
     
     public static boolean checkprime(int a){
 
