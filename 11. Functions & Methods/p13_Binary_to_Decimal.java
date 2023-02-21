@@ -2,6 +2,8 @@ import java.util.*;
 
 public class p13_Binary_to_Decimal {
 
+    // this code is writen by Priyanshu Gour
+
     public static void Binary_to_Decimal(int b) {
 
         int myNum = b ;
