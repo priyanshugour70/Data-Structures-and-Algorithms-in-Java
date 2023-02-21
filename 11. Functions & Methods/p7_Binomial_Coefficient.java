@@ -2,6 +2,8 @@ import java.util.*;
 
 public class p7_Binomial_Coefficient {
 
+    // this code is writen by Priyanshu Gour
+
     public static int factorial(int f) {
         int fact = 1;
 
