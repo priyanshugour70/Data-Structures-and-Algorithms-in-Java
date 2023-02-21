@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class p14_Decimal_to_Binary {
+
+    // this code is writen by Priyanshu Gour
     
     public static int Decimal_to_Binary(int Dec){
 
