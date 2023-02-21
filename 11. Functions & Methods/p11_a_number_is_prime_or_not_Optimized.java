@@ -2,6 +2,8 @@ import java.util.*;
 
 public class p11_a_number_is_prime_or_not_Optimized {
 
+    // this code is writen by Priyanshu Gour
+
     public static boolean optimized_prime(int a) {
 
         boolean isprime = true;
