@@ -2,6 +2,8 @@ import java.util.*;
 
 
 public class p6_Factorial_in_java {
+
+    // this code is writen by Priyanshu Gour
     
     public static int factorial(int a){
         int fact = 1 ;
