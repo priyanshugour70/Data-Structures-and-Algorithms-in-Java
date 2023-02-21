@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class p5_product_of_a_and_b {
+
+    // this code is writen by Priyanshu Gour
     
     public static int productoftwono(int a , int b){
 
