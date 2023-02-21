@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class p12_Primes_in_Range {
+
+    // this code is writen by Priyanshu Gour
     
     public static boolean rangeprime(int n){
 
