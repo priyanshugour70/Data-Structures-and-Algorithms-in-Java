@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class p4_Character_pattern {
+
+    // this code is writen by Priyanshu Gour
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
 
