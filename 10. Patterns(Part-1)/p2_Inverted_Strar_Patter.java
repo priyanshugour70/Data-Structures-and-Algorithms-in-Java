@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class p2_Inverted_Strar_Patter {
+
+    // this code is writen by Priyanshu Gour
     public static void main(String args[]){
 
         Scanner sc = new Scanner(System.in);
