@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class p1_intro_to_Nested_Loops_star_Pattern {
+
+    // this code is writen by Priyanshu Gour
     public static void main(String args[]){
 
         Scanner sc = new Scanner(System.in);
