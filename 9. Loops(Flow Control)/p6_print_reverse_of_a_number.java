@@ -1,6 +1,8 @@
 public class p6_print_reverse_of_a_number {
     public static void main(String args[]){
 
+        // this code is writen by Priyanshu Gour
+
         int dob = 40804 ;
 
         while(dob > 0){
