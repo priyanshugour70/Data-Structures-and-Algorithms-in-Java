@@ -1,6 +1,9 @@
 import java.util.*;
 
 public class p14_Optmize_way_to_prime {
+
+    // this code is writen by Priyanshu Gour
+
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
 
