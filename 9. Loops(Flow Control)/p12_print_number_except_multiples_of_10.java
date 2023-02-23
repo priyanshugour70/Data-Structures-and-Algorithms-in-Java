@@ -1,6 +1,9 @@
 import java.util.*;
 
 public class p12_print_number_except_multiples_of_10 {
+
+    // this code is writen by Priyanshu Gour
+
     public static void main(String args[]){
 
         try (Scanner sc = new Scanner(System.in)) {
