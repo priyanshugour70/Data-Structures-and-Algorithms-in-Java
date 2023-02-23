@@ -1,6 +1,9 @@
 import java.util.*;
 
 public class p13_Number_is_prime_or_not {
+
+    // this code is writen by Priyanshu Gour
+
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
 
