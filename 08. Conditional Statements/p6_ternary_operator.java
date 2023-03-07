@@ -1,4 +1,7 @@
 public class p6_ternary_operator {
+    
+    // This Code is Written By Priyanshu Gour
+
     public static void main(String args[]){
 
         // ternary 
