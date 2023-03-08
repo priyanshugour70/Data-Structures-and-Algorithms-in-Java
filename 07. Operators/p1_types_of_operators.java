@@ -1,4 +1,7 @@
 public class p1_types_of_operators {
+
+    // This Code is Written By Priyanshu Gour
+    
     public static void main(String args[]){
 
         /*
