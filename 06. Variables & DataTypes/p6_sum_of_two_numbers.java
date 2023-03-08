@@ -1,4 +1,7 @@
 public class p6_sum_of_two_numbers {
+
+    // This Code is Written By Priyanshu Gour
+
     public static void main(String args[]){
 
         int number1 = 10 ;
