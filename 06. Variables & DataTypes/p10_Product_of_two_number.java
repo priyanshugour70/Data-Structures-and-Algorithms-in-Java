@@ -1,5 +1,7 @@
 import java.util.*;
 
+// This Code is Written By Priyanshu Gour
+
 public class p10_Product_of_two_number {
     public static void main(String args[]){
 
