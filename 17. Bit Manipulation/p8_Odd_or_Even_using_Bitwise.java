@@ -27,6 +27,7 @@ public class p8_Odd_or_Even_using_Bitwise {
             System.out.println(num + " is Odd Nubmer .. ");
         }
 
+        
         sc.close();
     }
 }
